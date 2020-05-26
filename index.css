@@ -1,0 +1,26 @@
+.img-responsive{
+    height: 150px;
+    width: 100%;
+    
+}.navbar-brand{
+    margin-left: 45%;
+}.search{
+    width: 50%;
+    height: 5%;
+    margin-left: 25%;
+    margin-top: 20px;
+}#inputsearch{
+    margin-left: 10%;
+    width: 80%;
+}.glavni{
+    /* height: 1200px; */
+    width: 1000px;
+    border: 1px solid black;
+    margin-left: 10%;
+    margin-top: 15px;
+    display: flex;
+    
+}.panel-body{
+    margin: 10px;
+    margin-top: 15px;
+}
